@@ -1,4 +1,4 @@
-# Innocaption Submission
+# Innocaption Submission - James N.
 
 ## Description
 Basic E-Commerce webpage using API from https://dummyjson.com/
@@ -11,4 +11,6 @@ To run this project:
    ```bash
    npm install
 
-3. npm run dev
+3. Run the project
+   ```bash
+   npm run dev
